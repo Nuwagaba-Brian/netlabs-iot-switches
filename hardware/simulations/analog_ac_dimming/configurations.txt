@@ -1,0 +1,22 @@
+===========
+Properties i.e these are required to mimic the real world components
+===========
+
+- Diac
+	{MODFILE=ST_DIAC}
+	{BV=32}
+	{IH=50E-6}
+	{DV=5}
+	{TR=2E-6}
+	{MFR=STMicroelectronics}
+
+- Triac	
+	{MODFILE=ST_TRIAC}
+	{IT=100m}
+	{IH=50m}
+	{RON=0.025}
+	{ROFF=1.2M}
+	{VDRM=600}
+	{STANDARD=1}
+	{PACKAGE=TO220}
+	{MFR=STMicroelectronics}

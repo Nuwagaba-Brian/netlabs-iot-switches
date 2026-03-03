@@ -1,0 +1,5 @@
+The pulse is sent by the mcu i.e. high (5V) and low (0V)
+
+The mcu is substituted by the pulse generator.
+
+Use delays to control how first the pulse is sent (variable required)

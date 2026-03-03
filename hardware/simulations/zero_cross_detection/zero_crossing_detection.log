@@ -1,0 +1,16 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\morezeyz work\Projects\Embedded system training\netlabs-iot-switches\hardware\simulations\zero_cross_detection\zero_crossing_detection.net
+Start Time: Sun Mar  1 20:24:24 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.222 seconds.
+
+Files loaded:
+D:\morezeyz work\Projects\Embedded system training\netlabs-iot-switches\hardware\simulations\zero_cross_detection\zero_crossing_detection.net
+C:\Users\M\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\M\AppData\Local\LTspice\lib\sub\4N25.sub
+
